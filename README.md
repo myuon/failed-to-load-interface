@@ -19,10 +19,6 @@ causes an error:
 
 ```
 Resolving dependencies...
-In order, the following will be installed:
-failed-to-load-interface-0.1.0.0 (reinstall) (changes: hashable-1.2.6.1 added,
-lens-4.15.4 removed)
-Warning: Note that reinstalls are always dangerous. Continuing anyway...
 Notice: installing into a sandbox located at
 /home/ioijoi/program/failed-to-load-interface/.cabal-sandbox
 Configuring failed-to-load-interface-0.1.0.0...
