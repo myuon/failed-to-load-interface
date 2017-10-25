@@ -1,5 +1,14 @@
 # Failed to load interface for 'Data.Hashable.Generic'
 
+## information
+
+- ghc-8.2.1
+- cabal-2.0.0.2
+
+Both are installed by stack with resolver `nightly-2017-10-20`
+
+## error
+
 ```sh
 cabal sandbox init
 cabal install --only-dependencies && cabal new-build
