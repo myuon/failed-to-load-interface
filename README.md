@@ -3,7 +3,7 @@
 ## information
 
 - ghc-8.2.1
-- cabal-2.0.0.2
+- cabal-install-2.0.0.2
 
 Both are installed by stack with resolver `nightly-2017-10-20`
 
