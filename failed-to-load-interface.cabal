@@ -1,0 +1,21 @@
+name:           failed-to-load-interface
+version:        0.1.0.0
+category:       Other
+--homepage:
+author:         myuon
+maintainer:     ioi.joi.koi.loi@gmail.com
+copyright:      2017 myuon
+license:        MIT
+--license-file:   LICENSE
+build-type:     Simple
+cabal-version:  >= 2
+
+library
+  hs-source-dirs: src
+  build-depends:
+      base >= 4.7 && < 5
+    , hashable
+  signatures: Foo
+  exposed-modules: Lib
+  default-language: Haskell2010
+
